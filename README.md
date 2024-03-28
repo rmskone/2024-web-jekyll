@@ -22,3 +22,5 @@ Build the site and make it available on a local server.
 
 Browse to http://localhost:4000
 
+## Enable GitHub pages from /docs on main
+
