@@ -24,3 +24,6 @@ Browse to http://localhost:4000
 
 ## Enable GitHub pages from /docs on main
 
+## Enable GitHub Actions
+Jekyll By GitHub Actions
+
