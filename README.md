@@ -31,5 +31,11 @@ Jekyll By GitHub Actions
 
 `npm install bootstrap@5.3.3`
 
+change paths in bootstrap file: placed in _sass:
+// Required
+@import "../node_modules/bootstrap/scss/variables";
 
-
+Create assets/css/styles.scss
+---
+---
+@import "bootstrap";
