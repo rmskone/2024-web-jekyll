@@ -31,6 +31,10 @@ Jekyll By GitHub Actions
 
 `npm install bootstrap@5.3.3`
 
+Add base.url - required for github pages
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+
 change paths in bootstrap file: placed in _sass:
 // Required
 @import "../node_modules/bootstrap/scss/variables";
